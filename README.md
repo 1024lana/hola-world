@@ -1,4 +1,4 @@
 # hola-world
 My first repository on GitHub
-#bonus tardes 
+#buenas tardes 
 I perfer :🐶,🐱
